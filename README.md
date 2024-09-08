@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/mask-detection.git
+    git clone https://github.com/faris-hamdi/mask-detection.git
     cd mask-detection
     ```
 
@@ -75,16 +75,9 @@ To run this project locally, follow these steps:
 ├── notebooks/             # Jupyter Notebooks
 │   └── mask_detection_model.ipynb
 │
-├── src/                   # Source code
-│   ├── data_preprocessing.py  # Functions for data loading and preprocessing
-│   ├── model.py               # Model architecture and training code
-│   ├── utils.py               # Utility functions (e.g., visualization, error handling)
-│   └── evaluate.py            # Model evaluation scripts
-│
 ├── requirements.txt       # Required libraries and dependencies
 ├── README.md              # Documentation for your project
-├── LICENSE                # License for your project
-└── .gitignore             # Files and directories to ignore in version control
+└── LICENSE                # License for your project
 ```
 
 ## Model Details
@@ -105,7 +98,7 @@ The model is built using the following architecture:
 
 ## Results
 
-The model achieved satisfactory accuracy on the validation set, with training and validation accuracy being tracked over the epochs. Further fine-tuning and hyperparameter optimization can enhance the model's performance.
+The model achieved satisfactory accuracy on the training set (98.79%) validation set (97.49%), with training and validation accuracy being tracked over the epochs. Further fine-tuning and hyperparameter optimization can enhance the model's performance.
 
 ## Contributing
 
