@@ -102,7 +102,7 @@ The model achieved satisfactory accuracy on the training set (98.79%) validation
 
 ## Contributing
 
-Contributions are welcome! Please open an issue first to discuss what you would like to change. You can also fork the repository and submit a pull request. Please make sure to follow the [contributing guidelines](CONTRIBUTING.md).
+Contributions are welcome! Please open an issue first to discuss what you would like to change. You can also fork the repository and submit a pull request.
 
 ## License
 
